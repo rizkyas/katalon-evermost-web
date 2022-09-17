@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Nama Pemilik Rekening_inputText__input</name>
+   <tag></tag>
+   <elementGuidId>cf2cc446-3770-4855-8beb-84399007fa45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@type = 'text' and @placeholder = 'Isi nama pemilik rekening']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.inputText__input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f51de99e-3248-4e15-95bb-3631443c1af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>237f5a09-2c5d-473b-bf89-3aef384162d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Isi nama pemilik rekening</value>
+      <webElementGuid>3c1bab77-3a1c-4013-acad-b0e84d828737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inputText__input</value>
+      <webElementGuid>a6c94431-029b-45c4-83e7-38b919908d53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/form[1]/label[@class=&quot;inputText inputText--focus inputText--filled&quot;]/span[@class=&quot;inputText__inner&quot;]/input[@class=&quot;inputText__input&quot;]</value>
+      <webElementGuid>4fc96f8c-9a18-4415-acde-324323699163</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@type='text']</value>
+      <webElementGuid>97e74a38-8fb1-4b76-a315-1e365673974c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/form/label/span[2]/input</value>
+      <webElementGuid>10bb8178-dfd2-41a1-bab8-7748fbbeffcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>28c1272b-9086-4c04-b7d3-f98209dce6bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Isi nama pemilik rekening']</value>
+      <webElementGuid>33e8b2d0-5509-4852-88cb-c1258ce0ed2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

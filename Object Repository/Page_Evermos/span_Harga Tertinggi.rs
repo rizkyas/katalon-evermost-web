@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Harga Tertinggi</name>
+   <tag></tag>
+   <elementGuidId>ce382120-0198-42aa-9d4e-bbf2d04c464e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[3]/div/div/div[2]/label[4]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a1f28ef5-0eee-4b32-a040-4ac5c31731ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>productSort__label</value>
+      <webElementGuid>ad6cb5ee-0f73-4d00-88b4-a70dbb6b9b5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Harga Tertinggi</value>
+      <webElementGuid>2b110cca-72bf-419f-8338-9b7d5a034141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[3]/div[@class=&quot;productSort&quot;]/div[@class=&quot;productSort__panel&quot;]/div[@class=&quot;productSort__lists&quot;]/label[@class=&quot;inputCheck&quot;]/span[@class=&quot;productSort__label&quot;]</value>
+      <webElementGuid>357706e0-d43a-4103-8d63-ef1a97c70945</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/div/div/div[2]/label[4]/span[2]</value>
+      <webElementGuid>a2094cef-b4c1-455f-b7de-8d8b0f0be1de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komisi Tertinggi'])[1]/following::span[2]</value>
+      <webElementGuid>5499e737-4bdb-4305-970a-8e3ba028ee3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbaru'])[1]/following::span[4]</value>
+      <webElementGuid>0a2b9df5-b802-43c5-85a0-7d2d838e3744</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Termurah'])[1]/preceding::span[2]</value>
+      <webElementGuid>000e72f7-aa63-4396-951b-ad6760850e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dilihat Terbanyak'])[1]/preceding::span[4]</value>
+      <webElementGuid>4ac82508-979c-4ee5-b05f-ef2af4ec0f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Harga Tertinggi']/parent::*</value>
+      <webElementGuid>4822e62d-ce41-4416-bdd7-1ae2f840d6b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[4]/span[2]</value>
+      <webElementGuid>c7b2af6a-f7a7-4c91-87fd-880b041dcc86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Harga Tertinggi' or . = 'Harga Tertinggi')]</value>
+      <webElementGuid>b640bb69-65e7-49be-951e-40c68ec5d335</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

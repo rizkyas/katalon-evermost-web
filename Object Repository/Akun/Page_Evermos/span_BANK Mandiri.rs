@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BANK Mandiri</name>
+   <tag></tag>
+   <elementGuidId>6862c6be-790e-44f2-835b-4bac403e4150</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div[@class='appLayout']//div[@class='wrapper']/div[@class='bankLists']/a[2]/span[@class='bankList__name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.bankList__name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>301ecfcd-786b-4c72-974b-8d93b2af5243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bankList__name</value>
+      <webElementGuid>41ee3613-3da1-4d91-89de-f6227d35578b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BANK BCA</value>
+      <webElementGuid>1cf4c6d7-12ff-4e4a-9d29-5b74ff84e31f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;modalDrawer&quot;]/div[@class=&quot;modalDrawer__panel&quot;]/div[@class=&quot;modalDrawer__wrapper modalDrawer__wrapper--scroll&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;bankLists&quot;]/a[@class=&quot;bankList&quot;]/span[@class=&quot;bankList__name&quot;]</value>
+      <webElementGuid>ccb57c2c-ee26-4bc3-be8e-969f583b64ca</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/div/div[2]/div/div[2]/a/span</value>
+      <webElementGuid>285c1da1-4051-421b-83c5-175c2d67a110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Bank'])[1]/following::span[2]</value>
+      <webElementGuid>ddbe97a4-0bf9-45dc-8e99-4376f2eeb4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor Rekening'])[1]/following::span[4]</value>
+      <webElementGuid>db220f75-97d0-4ae0-9728-2021d99c5c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BANK MANDIRI'])[1]/preceding::span[1]</value>
+      <webElementGuid>76c0ee61-8f91-4384-9e0c-b804d2ee7d94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BANK BRI'])[1]/preceding::span[2]</value>
+      <webElementGuid>151b7518-dd45-4511-b33e-3edc25fc34be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BANK BCA']/parent::*</value>
+      <webElementGuid>3a4fd18a-ddfa-4518-9ac8-2e3a968c93fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>6b84c974-9d79-4336-972f-97d246359af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BANK BCA' or . = 'BANK BCA')]</value>
+      <webElementGuid>702074ff-bd10-4696-b1a5-21dcafd20256</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Nomor Rekening Terdaftar</name>
+   <tag></tag>
+   <elementGuidId>75fd5447-3cf8-4f14-8d18-78f36a91864e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[5]/div/a[5]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2d07b69c-0706-4cbc-826c-a39f06355fa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menuGroup__item__label</value>
+      <webElementGuid>ec9c0ce8-f131-4b7a-9f22-14efe87f4d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nomor Rekening Terdaftar</value>
+      <webElementGuid>4e7474e4-d90e-4b49-b18c-137bec27fc79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;menuGroup&quot;]/div[@class=&quot;menuGroup__items&quot;]/a[@class=&quot;menuGroup__item&quot;]/span[@class=&quot;menuGroup__item__label&quot;]</value>
+      <webElementGuid>da1c5ff9-be93-4b35-b903-f147a7526443</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[5]/div/a[5]/span</value>
+      <webElementGuid>af822307-0290-4e8d-93c4-14d1524d862f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencairan Kredit'])[1]/following::span[3]</value>
+      <webElementGuid>9fbff4cd-4a90-4938-8244-6a0eb70507e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi via Toko Saya'])[1]/following::span[6]</value>
+      <webElementGuid>94598683-0eaf-4c68-a55b-0db26cc63684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pembayaran'])[1]/preceding::span[3]</value>
+      <webElementGuid>621ee2ef-fe51-4a65-8750-36ebfc9efc9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keamanan'])[1]/preceding::span[5]</value>
+      <webElementGuid>7443e674-1d8d-4265-a09d-ef0f9288834b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nomor Rekening Terdaftar']/parent::*</value>
+      <webElementGuid>a2ccf991-5a59-45d9-a7a6-e6df0c09b772</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/span</value>
+      <webElementGuid>88d71db4-6f8d-451c-9d38-6abac9dd1609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Nomor Rekening Terdaftar' or . = 'Nomor Rekening Terdaftar')]</value>
+      <webElementGuid>eacd1441-825a-4591-a1da-a039e04fbdd7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

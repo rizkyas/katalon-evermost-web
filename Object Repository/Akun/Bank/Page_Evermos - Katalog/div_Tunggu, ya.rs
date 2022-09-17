@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Tunggu, ya</name>
+   <tag></tag>
+   <elementGuidId>c75f550c-e565-4fd4-8cbe-04f3bc4175db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.appLoading__backdrop</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aef2f2ab-4c1f-48eb-ad3a-1cd81dc1ed31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>appLoading__backdrop</value>
+      <webElementGuid>3cf3ffb5-d28f-42eb-a7d7-5aac134ae90f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tunggu, ya...</value>
+      <webElementGuid>27da4547-dae8-46fa-8a3c-0ca9ee9478b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;appLoading appLoading--loading&quot;]/div[@class=&quot;appLoading__backdrop&quot;]</value>
+      <webElementGuid>bd08bcbc-7d8b-4968-b402-76405fd21dbf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div/div</value>
+      <webElementGuid>3a389b3a-c2b9-4608-a427-a8834910ac9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berbagai keuntungan bisa kamu dapatkan di Aplikasi Evermos.'])[1]/preceding::div[6]</value>
+      <webElementGuid>f1272107-9929-40c0-82f6-b739c9b533a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>813e0c68-3ea0-481a-9017-55bfcffb5637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Tunggu, ya...' or . = 'Tunggu, ya...')]</value>
+      <webElementGuid>7ad04fbb-136b-484e-8a93-a1a4aaf1cfb1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

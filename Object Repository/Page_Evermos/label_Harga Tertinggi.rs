@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Harga Tertinggi</name>
+   <tag></tag>
+   <elementGuidId>623f961c-3f51-49e2-aee1-67810f6540bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[3]/div/div/div[2]/label[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>b48278d2-ec23-46fe-bff9-6a80484f4d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inputCheck</value>
+      <webElementGuid>501d55ab-9ba9-44f9-a38d-0ef864613813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Harga Tertinggi</value>
+      <webElementGuid>36430e1d-284c-4395-a7a3-9e6370e4a805</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[3]/div[@class=&quot;productSort&quot;]/div[@class=&quot;productSort__panel&quot;]/div[@class=&quot;productSort__lists&quot;]/label[@class=&quot;inputCheck&quot;]</value>
+      <webElementGuid>818e96b0-3feb-4217-a181-b3342ddf13b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/div/div/div[2]/label[4]</value>
+      <webElementGuid>faaf4cd9-6a8c-4d70-b836-ef11fb337b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komisi Tertinggi'])[1]/following::label[1]</value>
+      <webElementGuid>1b5d0c49-4396-4e0c-818c-a7a0caf27b9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terbaru'])[1]/following::label[2]</value>
+      <webElementGuid>06de8fc0-d3cb-4ce1-ba51-f8b72dcddc68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Harga Termurah'])[1]/preceding::label[1]</value>
+      <webElementGuid>1e041e30-51fd-4923-9def-fe0b73aedbcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[4]</value>
+      <webElementGuid>d7f6cb87-a421-4bc0-a103-9220da5e8ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '  Harga Tertinggi' or . = '  Harga Tertinggi')]</value>
+      <webElementGuid>2befde3a-0588-4c8c-8742-5aaeda2a8b73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

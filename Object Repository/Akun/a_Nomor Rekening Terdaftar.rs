@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Nomor Rekening Terdaftar</name>
+   <tag></tag>
+   <elementGuidId>4304c252-3d88-42e6-af81-ce37ccb86827</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[5]/div/a[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2f0bcae9-aaef-4107-b08d-9090a3578646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/bank</value>
+      <webElementGuid>88c6c88a-274f-4a9a-aea5-93fec0750c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menuGroup__item</value>
+      <webElementGuid>4c7ad4e1-234f-4fa8-9827-c54a6fd3fa2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Nomor Rekening Terdaftar  </value>
+      <webElementGuid>33a2e589-90bc-434b-8f7c-f560b91b80cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;menuGroup&quot;]/div[@class=&quot;menuGroup__items&quot;]/a[@class=&quot;menuGroup__item&quot;]</value>
+      <webElementGuid>c9e36db0-0bbb-491f-a2ac-7d8cfe271a2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[5]/div/a[5]</value>
+      <webElementGuid>a0c64ca3-9d30-4bc8-b11e-6eea9da6ca09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencairan Kredit'])[1]/following::a[1]</value>
+      <webElementGuid>d8e8a55e-8841-405e-8c61-4e6b9f28f51f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaksi via Toko Saya'])[1]/following::a[2]</value>
+      <webElementGuid>247df732-fe33-4dd4-bcd6-d7e2e4c65765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Riwayat Pembayaran'])[1]/preceding::a[1]</value>
+      <webElementGuid>2633889b-2c22-444d-a52b-44b781ab2a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user/bank')]</value>
+      <webElementGuid>f00f4f48-f840-4e81-9859-c28346168168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]</value>
+      <webElementGuid>dac74a7e-c105-4533-a079-4444f560f11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/bank' and (text() = '  Nomor Rekening Terdaftar  ' or . = '  Nomor Rekening Terdaftar  ')]</value>
+      <webElementGuid>f2ec8f01-e1ea-44d6-95f8-62dbb457526f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

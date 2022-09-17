@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Blouse Muslim Wanita</name>
+   <tag></tag>
+   <elementGuidId>8d3a7d3c-d561-4298-aad8-ac0313aa7bff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div[2]/div[2]/div/a/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>afffc15d-0b58-4439-86e4-a813669078db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>categorySection__item__label</value>
+      <webElementGuid>eececd21-3976-4b3b-a9a9-0bfdf82be429</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blouse Muslim Wanita</value>
+      <webElementGuid>ecea6180-7606-4b47-aeeb-b7301ddebc82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;categorySections scroll-y&quot;]/div[@class=&quot;categorySection&quot;]/div[@class=&quot;categorySection__body&quot;]/div[@class=&quot;categorySection__item&quot;]/a[@class=&quot;categorySection__item__anchor&quot;]/span[@class=&quot;categorySection__item__label&quot;]</value>
+      <webElementGuid>54d527a1-26ff-4b08-8c3a-1fc07ac28429</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div[2]/div[2]/div/a/span[2]</value>
+      <webElementGuid>ef5d57ad-625d-4f70-81cd-efedd37681f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Semua'])[2]/following::span[3]</value>
+      <webElementGuid>526fa903-dfc6-436d-a14f-ed4bc4cefa13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atasan Muslim Wanita'])[1]/following::span[4]</value>
+      <webElementGuid>aeec64df-c3d7-439d-8bb2-c717b33bc6f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manset Muslim Wanita'])[1]/preceding::span[2]</value>
+      <webElementGuid>0175c79a-c17a-4c4c-84c7-5beacaa8b8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Setelan Syari Wanita'])[1]/preceding::span[4]</value>
+      <webElementGuid>fefdb302-eeb9-401c-851e-6f8e8bc5362b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Blouse Muslim Wanita']/parent::*</value>
+      <webElementGuid>c7addd9e-8c2b-48b2-98ac-4743b0dcf073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a/span[2]</value>
+      <webElementGuid>d2bfe359-a0be-4361-ac0d-437a7ad45f99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Blouse Muslim Wanita' or . = 'Blouse Muslim Wanita')]</value>
+      <webElementGuid>fd9e9504-2ffa-47d3-9393-782b815eba52</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

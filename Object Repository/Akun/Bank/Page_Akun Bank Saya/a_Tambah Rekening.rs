@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tambah Rekening</name>
+   <tag></tag>
+   <elementGuidId>1c9262fd-5550-48b8-8e2f-13738dcbee50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn--brand.btn--block.btn--large</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>13c84574-c27a-4343-8f09-8857084561ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/bank/add-bank</value>
+      <webElementGuid>05c31d85-d6b8-4da0-a552-81538865cc5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn--brand btn--block btn--large</value>
+      <webElementGuid>a7bbd153-f0cc-400f-85c6-ff04511ce8ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Rekening</value>
+      <webElementGuid>f373d799-dd73-4534-9121-61cddb42921d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;appLayout__actions&quot;]/div[@class=&quot;appLayout__actions__panel&quot;]/a[@class=&quot;btn btn--brand btn--block btn--large&quot;]</value>
+      <webElementGuid>8e0700fe-2300-4f78-afea-d71e639faaef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/div/a</value>
+      <webElementGuid>78a29ada-2c4c-494a-91dd-6ac3f8590683</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Tambah Rekening')]</value>
+      <webElementGuid>419d3b78-467b-4a89-9c00-072563802b92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TIDAK TERDAFTAR'])[1]/following::a[2]</value>
+      <webElementGuid>8d8d109e-6481-4bf3-ae67-f1bec896b77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BANK BCA'])[1]/following::a[2]</value>
+      <webElementGuid>6463cfbf-f3af-409a-8fb6-0ee4eaf4ec27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tambah Rekening']/parent::*</value>
+      <webElementGuid>5ed91d75-84c8-4370-aef0-5e11fa8181c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user/bank/add-bank')]</value>
+      <webElementGuid>1a63758f-02e8-4cca-9b15-d9c708fcc365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/a</value>
+      <webElementGuid>4a71e6ca-93bc-4cb5-a847-a1ccd8dc2294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/bank/add-bank' and (text() = 'Tambah Rekening' or . = 'Tambah Rekening')]</value>
+      <webElementGuid>3d322353-797a-420e-bf7b-569351f1e524</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

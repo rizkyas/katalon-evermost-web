@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Fashion Muslim</name>
+   <tag></tag>
+   <elementGuidId>d27ad36f-7a14-463b-a967-0d4b57e7d38c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[3]/a[5]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27fb16b0-24c1-406f-8cef-72ac171246fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>categorySideItem__label</value>
+      <webElementGuid>926ec120-6064-4d40-a6e2-bc0a223990d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fashion Muslim</value>
+      <webElementGuid>bf7245f8-2d0b-42e0-8259-078ca8c85036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;appLayout&quot;]/div[@class=&quot;categorySideItems&quot;]/a[@class=&quot;categorySideItem&quot;]/span[@class=&quot;categorySideItem__label&quot;]</value>
+      <webElementGuid>34ba45ed-5616-46cd-9a0d-028f1ce4d0c7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[3]/a[5]/span[2]</value>
+      <webElementGuid>9b4c7f5d-79b6-4e1b-bf01-dfcb93c02428</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapur'])[1]/following::span[2]</value>
+      <webElementGuid>b215f429-3de3-46bc-9151-a7d5fabcd8cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rumah Tangga'])[1]/following::span[4]</value>
+      <webElementGuid>0a7d9c3e-9f31-415b-bfc5-9814b7645f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Al-Quran &amp; Buku Islami'])[1]/preceding::span[2]</value>
+      <webElementGuid>36641e08-ac7d-40fe-b7a5-be21d98b3d1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Anak &amp; Bayi'])[1]/preceding::span[4]</value>
+      <webElementGuid>bd91003a-3a46-464e-8743-38b840294061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fashion Muslim']/parent::*</value>
+      <webElementGuid>cd9b468b-7312-4568-8ab5-f8c734762576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/span[2]</value>
+      <webElementGuid>eb60f380-6321-40ef-ab28-3db2a6cbbad1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Fashion Muslim' or . = 'Fashion Muslim')]</value>
+      <webElementGuid>418b8b6f-bd28-40ed-b77e-70b7c6d36cba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
